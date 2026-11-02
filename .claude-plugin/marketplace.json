@@ -1,0 +1,15 @@
+{
+  "name": "novardlee",
+  "owner": {
+    "name": "Novard Lee",
+    "url": "https://github.com/novardlee"
+  },
+  "plugins": [
+    {
+      "name": "honest-resume",
+      "source": "./",
+      "description": "Honest resume tailoring and job-board profile copy from a verified career profile. Free edition of the Job & Housing Agent.",
+      "version": "0.1.0"
+    }
+  ]
+}

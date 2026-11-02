@@ -1,0 +1,13 @@
+{
+  "name": "honest-resume",
+  "description": "Builds a verified career profile through conversation, then tailors honest resumes and Indeed/ZipRecruiter profile copy. Never invents titles, dates or credentials. Free edition of the Job & Housing Agent.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Novard Lee",
+    "url": "https://github.com/novardlee"
+  },
+  "homepage": "https://github.com/novardlee/honest-resume-skill",
+  "repository": "https://github.com/novardlee/honest-resume-skill",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["resume", "job-search", "career", "indeed", "ziprecruiter", "interview", "skills"]
+}
