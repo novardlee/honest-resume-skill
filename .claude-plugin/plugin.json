@@ -8,6 +8,9 @@
   },
   "homepage": "https://github.com/novardlee/honest-resume-skill",
   "repository": "https://github.com/novardlee/honest-resume-skill",
+  "documentationUrl": "https://github.com/novardlee/honest-resume-skill#readme",
+  "supportUrl": "https://github.com/novardlee/honest-resume-skill/issues",
+  "privacyPolicyUrl": "https://github.com/novardlee/honest-resume-skill/blob/main/PRIVACY.md",
   "license": "CC-BY-NC-4.0",
   "keywords": ["resume", "job-search", "career", "indeed", "ziprecruiter", "interview", "skills"]
 }
